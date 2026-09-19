@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+begin
+  Process.spawn File.join(Gem.bindir, "llm.rb"), *ARGV
+  Process.wait
+rescue Interrupt
+end
