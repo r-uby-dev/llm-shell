@@ -24,4 +24,4 @@ reduces installing the llm.rb console to a single line:
 ## License
 
 MIT. <br>
-See [LICENSE](./LICENSE)
+See [LICENSE](./LICENSE).
