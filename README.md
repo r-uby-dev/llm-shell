@@ -17,10 +17,9 @@ Welcome to the canonical llm-shell repository.
 This repository provides a RubyGem that includes
 the [llm.rb](https://github.com/r-uby-dev/llm) runtime
 and the optional dependencies that it requires to
-run the llm.rb console.
-
-It is a convenience gem that reduces installing the
-llm.rb console to a single line: `gem install llm-shell`.
+run the llm.rb console. It is a convenience gem that
+reduces installing the llm.rb console to a single line:
+`gem install llm-shell`.
 
 ## License
 
