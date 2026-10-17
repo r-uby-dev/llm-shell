@@ -14,7 +14,7 @@ llm.rb console to a single line: `gem install llm-shell`.
 DESCRIPTION
 
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.3.0"
+  spec.required_ruby_version = ">= 3.4.0"
 
   spec.homepage = "https://r.uby.dev"
   spec.metadata["homepage_uri"] = spec.homepage
@@ -28,8 +28,8 @@ DESCRIPTION
   ##
   # The dependencies that are required to run
   # the llm.rb console
-  spec.add_dependency "llm.rb", "~> 16.0"
-  spec.add_dependency "test-cmd.rb", "~> 2.7"
+  spec.add_dependency "llm.rb", "~> 17.0"
+  spec.add_dependency "test-cmd.rb", "~> 2.7.3"
   spec.add_dependency "curses", "~> 1.7"
   spec.add_dependency "kramdown", "~> 2.5"
   spec.add_dependency "unicode-display_width", "~> 3.2"
