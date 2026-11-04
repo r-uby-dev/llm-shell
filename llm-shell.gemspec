@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "llm-shell"
-  spec.version = "0.13.0"
+  spec.version = "0.14.0"
   spec.authors = ["Robert Gleeson"]
   spec.email = ["robert@r.uby.dev"]
 
