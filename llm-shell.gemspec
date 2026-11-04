@@ -28,7 +28,7 @@ DESCRIPTION
   ##
   # The dependencies that are required to run
   # the llm.rb console
-  spec.add_dependency "llm.rb", "~> 17.0"
+  spec.add_dependency "llm.rb", "~> 18.0"
   spec.add_dependency "test-cmd.rb", "~> 2.7.3"
   spec.add_dependency "curses", "~> 1.7"
   spec.add_dependency "kramdown", "~> 2.5"
