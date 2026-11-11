@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "llm-shell"
-  spec.version = "0.14.0"
+  spec.version = "0.15.0"
   spec.authors = ["Robert Gleeson"]
   spec.email = ["robert@r.uby.dev"]
 
@@ -28,8 +28,7 @@ DESCRIPTION
   ##
   # The dependencies that are required to run
   # the llm.rb console
-  spec.add_dependency "llm.rb", "~> 18.0"
-  spec.add_dependency "test-cmd.rb", "~> 2.7.3"
+  spec.add_dependency "llm.rb", "~> 19.0"
   spec.add_dependency "curses", "~> 1.7"
   spec.add_dependency "kramdown", "~> 2.5"
   spec.add_dependency "unicode-display_width", "~> 3.2"
