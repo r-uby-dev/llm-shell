@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "llm-shell"
-  spec.version = "0.15.0"
+  spec.version = "0.15.1"
   spec.authors = ["Robert Gleeson"]
   spec.email = ["robert@r.uby.dev"]
 
@@ -14,7 +14,6 @@ llm.rb console to a single line: `gem install llm-shell`.
 DESCRIPTION
 
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.4.0"
 
   spec.homepage = "https://r.uby.dev"
   spec.metadata["homepage_uri"] = spec.homepage
